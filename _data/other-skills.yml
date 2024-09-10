@@ -1,0 +1,11 @@
+- name: Linux
+  percentage: 65
+  color: info
+
+- name: Neovim
+  percentage: 65
+  color: danger   
+
+- name: Docker
+  percentage: 50
+  color: info

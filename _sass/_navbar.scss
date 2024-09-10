@@ -1,0 +1,40 @@
+.link-after {
+  content: "";
+  display: block;
+  height: 0.15em;
+  background: $primary;
+}
+
+.nav-git {
+  font-size: 5rem;
+}
+.nav-link,
+.navbar-brand {
+  font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
+  &::after {
+    @extend .link-after;
+    width: 0;
+    transition: width 0.35s;
+  }
+
+  &:hover::after {
+    width: 100%;
+  }
+}
+
+.nav-item.active {
+  font-weight: bold;
+  font-size: 3rem;
+  &::after {
+    @extend .link-after;
+    width: 100% !important;
+  }
+}
+
+.navbar-brand {
+  margin-bottom: -14px;
+  &::after {
+    margin-top: -0.25em;
+  }
+}
