@@ -22,7 +22,7 @@ facebook:
   color : 3b5998
 
 github:
-  url   : https://www.github.com/CK-7vn
+  url   : https://www.github.com/
   icon  : fab fa-github
   color : 333333
 
@@ -87,7 +87,7 @@ vimeo:
   color : 162221
 
 youtube:
-  url   : https://www.youtube.com/@CK-7vn
+  url   : https://www.youtube.com/
   icon  : fab fa-youtube
   color : ff0000
 
