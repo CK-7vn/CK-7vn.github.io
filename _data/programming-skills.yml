@@ -2,8 +2,6 @@
   percentage: 80
   color: info 
 
-
-
 - name: Python
   percentage: 70
   color: info
@@ -13,7 +11,7 @@
   color: danger
 
 - name: Typescript
-  percentage: 50
+  percentage: 75
   color: danger
 
 
@@ -25,3 +23,6 @@
   percentage: 50
   color: danger
 
+- name: Rust
+  percentage: 35
+  color: info
