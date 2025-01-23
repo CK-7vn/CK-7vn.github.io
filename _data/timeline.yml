@@ -1,3 +1,7 @@
+- title: First Book Review (Pre-Published)
+  from: December 2024 
+  description: My first technical review of a book ->  "Learn JavaScript with AI by Laurence Svekis and Priti Yadav".
+
 - title: Hired at UnlockedLabs
   from: October 2024
   to: present 
@@ -7,11 +11,9 @@
   from: September 2024 
   description: Nominated and received the Rising Scholars award from UMA
 
-- title: Started backend career path on Boot.dev
-  from: June 2024
-  to: present 
-  rank: 69 out of 200k+ 
-  description: Started learning and working on Boot'Devs backend career path.
+- title: TA for MIT's BBB Class
+  from: August 2024 - November 2024
+  description: TA for MIT's BBB class, helping students with their projects and assignments
 
 - title: Student, Pierpont Community and Technical College
   from: 2024
@@ -19,6 +21,12 @@
   graduated: August 2024
   degree: Associates of Applied Science conentration in Computer Science
   description: Began my Associates of Applied Science at Pierpont Community College in West Virginia in April of 2024, and graduated August of 2024! 
+
+- title: Started backend career path on Boot.dev
+  from: June 2024
+  to: present 
+  rank: Top 100 out of 200k+ 
+  description: Started learning and working on Boot'Devs backend career path.
 
 - title: Hired as Resident I.T. Worker
   from: March 2024
