@@ -1,7 +1,7 @@
 ---
 name: College Hacked
 tools: 
-image: "~/Projects/github.com/CK-7vn/CK-7vn.github.io/assets/college-hacked.jpg"
+image: https://private-user-images.githubusercontent.com/163448150/361494677-18576ea7-aef8-43da-a27a-56620347a8ca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ5ODA4ODEsIm5iZiI6MTc0NDk4MDU4MSwicGF0aCI6Ii8xNjM0NDgxNTAvMzYxNDk0Njc3LTE4NTc2ZWE3LWFlZjgtNDNkYS1hMjdhLTU2NjIwMzQ3YThjYS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQxOFQxMjQ5NDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZjMzNjAyZGJlZjk2NGQ1MWFkYTUwNmI2ZjMxMjYwYzMxNTdhYzEzNTU5NjVmY2FlMTY4Yjk5ZjZhYzNhYmU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.BN-k_AmRB4V2_zHao51wl6-gL3yfNXYfh59irGwjMtg
 description: A web app I am working on to help people navigate the long (hopefully not) walk to earning higher education. The end goal is a web application that people can go to and with the assistance of AI build a college degree program using other college credit resources, things like CLEP, and ACE credits, instead of using strictly brick and mortar credits. I personally have used a similar path to get my Associates degree in less than one year, and earn upwards of 100 credits from August of 2023, to October of 2024. Currently I am working on training an LLM with data specific to colleges, and college credit.
 external_url: https://github.com/CK-7vn/College-Hacked?tab=readme-ov-file
 ---
